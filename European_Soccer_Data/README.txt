@@ -1,0 +1,1 @@
+Different stats amd attributes of the beautiful game were analyzed using python, numpy and pandas.

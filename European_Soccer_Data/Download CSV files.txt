@@ -1,0 +1,6 @@
+All the data was collected from Kaggle
+
+Download match.csv from the link below
+
+https://www.kaggle.com/datasets/hugomathien/soccer
+

@@ -1,0 +1,1 @@
+I created a script that can answer different statistical qustions about bikeshare datasets in different cities in the USA.
