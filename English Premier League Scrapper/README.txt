@@ -1,0 +1,1 @@
+This script uses the official English premier league website to scrape different stats and attributes for all players across several seasons.
